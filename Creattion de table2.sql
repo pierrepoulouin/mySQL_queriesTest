@@ -1,0 +1,7 @@
+USE PEOPLE;
+CREATE TABLE PERSONNE(
+nom VARCHAR(40),
+prenom VARCHAR(40),
+age INT,
+civilite VARCHAR(40)
+)
